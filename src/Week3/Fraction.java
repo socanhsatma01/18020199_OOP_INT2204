@@ -1,3 +1,5 @@
+package Week3;
+
 public class Fraction {
     /**
      * declare attributes here

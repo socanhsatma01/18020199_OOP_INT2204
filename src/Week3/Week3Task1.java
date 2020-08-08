@@ -1,4 +1,4 @@
-
+package Week3;
 
 public class Week3Task1 {
     public int gcd(int a, int b) {
